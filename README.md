@@ -9,7 +9,7 @@ The displays of the complex scenes and multiple aircraft are shown as follows.
 ## Dataset Resource and Usage License
 The dataset is avaliable on the link  https://pan.baidu.com/s/1HKBFrgTNDsOInnK0w6qyOg. The extration password is _tcjr_. And the decompression password is _dimandsmallvehicle_. If you want use our dataset, please follows these rules:
 
-• Use of the Google Earth images must respect the ("Google Earth" terms of use)[https://about.google/brand-resource-center/products-and-services/geo-guidelines/].
+• Use of the Google Earth images must respect the ["Google Earth" terms of use](https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
 
 • All images and their associated annotations in CORS-ADD **can be used for academic purposes only, but any commercial use is prohibited**.
 
