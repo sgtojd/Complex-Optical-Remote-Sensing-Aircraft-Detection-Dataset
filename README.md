@@ -7,13 +7,25 @@ The displays of the complex scenes and multiple aircraft are shown as follows.
 ![display](https://user-images.githubusercontent.com/61158621/216558564-853beca5-fd32-408c-a9fa-ac70ff7cce5f.png)
 
 ## Dataset Resource and Usage License
-The dataset is avaliable on the link  https://pan.baidu.com/s/1id6IP7LoIOL6T-C_GBSGJw. The extration password is _fzdq_. And the decompression password will be provided when our essay is published. If you want use our dataset, please follows these rules:
+The dataset is avaliable on the link  https://pan.baidu.com/s/1id6IP7LoIOL6T-C_GBSGJw. The extration password is _fzdq_. And the decompression password is _fzdq_. If you want use our dataset, please follows these rules:
 
 • Use of Google Earth images must respect the ["Google Earth" terms of use](https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
 
 • All images and their associated annotations in CORS-AOD **can be used for academic purposes only, but any commercial use is prohibited**.
 
 • If you need to use our dataset to make research, please cite our essay (Complex Optical Remote Sensing Aircraft Detection Dataset and Benchmark) **(The essay is acceped and we will update the link when it is published)**.
+~~~
+@ARTICLE{10144379,
+  author={Shi, Tianjun and Gong, Jinnan and Jiang, Shikai and Zhi, Xiyang and Bao, Guangzhen and Sun, Yu and Zhang, Wei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Complex Optical Remote Sensing Aircraft Detection Dataset and Benchmark}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3283137}}
+}
+~~~
 
 ## Contact
 If you have any the problem or feedback in using CORS-AOD, please contact
