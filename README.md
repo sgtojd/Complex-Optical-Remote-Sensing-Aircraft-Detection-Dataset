@@ -18,13 +18,12 @@ The dataset is avaliable on the link https://pan.baidu.com/s/1y3ziWBq7vHf3mwPu-i
 @ARTICLE{10144379,
   author={Shi, Tianjun and Gong, Jinnan and Jiang, Shikai and Zhi, Xiyang and Bao, Guangzhen and Sun, Yu and Zhang, Wei},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Complex Optical Remote Sensing Aircraft Detection Dataset and Benchmark}, 
+  title={Complex Optical Remote-Sensing Aircraft Detection Dataset and Benchmark}, 
   year={2023},
-  volume={},
+  volume={61},
   number={},
-  pages={1-1},
+  pages={1-9},
   doi={10.1109/TGRS.2023.3283137}}
-}
 ~~~
 
 ## Contact
