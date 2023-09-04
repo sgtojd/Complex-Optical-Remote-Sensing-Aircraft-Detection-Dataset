@@ -7,7 +7,7 @@ The displays of the complex scenes and multiple aircraft are shown as follows.
 ![display](https://user-images.githubusercontent.com/61158621/216558564-853beca5-fd32-408c-a9fa-ac70ff7cce5f.png)
 
 ## Dataset Resource and Usage License
-The dataset is available on the link [https://pan.baidu.com/s/1-vca_9DlZlFqBOJ2BP9F5A]. The extraction password is _tbhy_. And the decompression password is _Cors-add_. We provide the datasets with horizontal bounding boxes (CORS-ADD-HBB.zip) and oriented bounding boxes (CORS-ADD-OBB.zip)). The data with HBBs and OBBs is not excatly the same. **We recommend using the data with OBBs** which is labeled more carefully with fewer problem. **Star this project and we will update the corresponding data consistently**. If you want use our dataset, please follows these rules : 
+The dataset is available on the link https://pan.baidu.com/s/1-vca_9DlZlFqBOJ2BP9F5A. The extraction password is _tbhy_. And the decompression password is _Cors-add_. We provide the datasets with horizontal bounding boxes (CORS-ADD-HBB.zip) and oriented bounding boxes (CORS-ADD-OBB.rar). The data with HBBs and OBBs is not excatly the same. **We recommend using the data with OBBs** which is labeled more carefully with fewer problem. **Star this project and we will update the corresponding data consistently**. If you want use our dataset, please follows these rules : 
 
 • Use of Google Earth images must respect the ["Google Earth" terms of use](https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
 
