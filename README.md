@@ -1,4 +1,4 @@
-![image](https://github.com/sgtojd/Complex-Optical-Remote-Sensing-Aircraft-Detection-Dataset/assets/61158621/b01c5ba9-bfb3-4f08-90fd-b69df9961f90)# Complex-Optical-Remote-Sensing-Aircraft-Detection-Dataset
+# Complex-Optical-Remote-Sensing-Aircraft-Detection-Dataset
 A complex optical remote sensing aircraft dataset (CORS-ADD) is constructed, which originates from several satellites with varying imaging characteristics and covers more diverse aircraft.
 
 ## Dataset Description
